@@ -19,5 +19,3 @@ Train a perceptron using only raw Python.
 Trained models are stored inside the `Trained_Models` folder.
 
 ---
-
-*(Used AI for grammar)*
